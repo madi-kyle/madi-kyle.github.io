@@ -16,3 +16,9 @@ p {
 hr {
 	width:200px;
 }
+a {
+	color: black;
+}
+a:visited {
+	color: white;
+}
