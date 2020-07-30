@@ -2,10 +2,12 @@ body {
 text-align: center;
 background-color: #EDDBD9;
 font-color: black;
-font-family: Brushstroke;
+font-family: monospace;
 }
 p {
-	color: red;
+	color: black;
+	font-weight: bold;
+	font-style: italic;
 }
 hr {
 	width:200px;
