@@ -4,7 +4,7 @@ background-color: #EDDBD9;
 font-color: black;
 font-family: monospace;
 }
-h1 {
+h1, h2 {
 text-transform: uppercase;
 }
 p {
