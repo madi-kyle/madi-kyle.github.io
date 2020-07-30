@@ -1,6 +1,6 @@
 body {
 	text-align: center;
-	background-color:#DEB4A9;
+	background: url("images/colour_samples.jpg");
 	font-color: black;
 	font-family: Helvetica;
 }
@@ -8,5 +8,5 @@ img {
 	text-align: right;
 }
 hr {
-	width:; 200px;
+	width: 200px;
 }
