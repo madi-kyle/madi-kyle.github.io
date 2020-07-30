@@ -19,6 +19,6 @@ hr {
 a {
 	color: black;
 }
-a:visited {
+a:hover {
 	color: white;
 }
