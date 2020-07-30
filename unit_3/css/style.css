@@ -1,12 +1,12 @@
 body {
-	text-align: center;
-	background: url("images/colour_samples.jpg");
-	font-color: black;
-	font-family: Brushstroke;
+	text-align:center;
+	background-color:#EDDBD9;
+	font-color:black;
+	font-family:Brushstroke;
 }
 img {
-	text-align: right;
+	text-align:right;
 }
 hr {
-	width: 200px;
+	width:200px;
 }
