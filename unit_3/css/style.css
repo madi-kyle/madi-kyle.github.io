@@ -1,9 +1,12 @@
 body {
 	text-align: center;
-	background-color: #DEB4A9;
+	background-color:#DEB4A9;
 	font-color: black;
 	font-family: Helvetica;
 }
 img {
-	text-align: left;
+	text-align: right;
+}
+hr {
+	width:; 200px;
 }
