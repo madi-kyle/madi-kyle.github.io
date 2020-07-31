@@ -6,11 +6,11 @@ font-family: monospace;
 }
 h1, h2 {
 text-transform: uppercase;
-font-family: @import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
 }
 p {
 	color: black;
 	font-weight: bold;
+	font-style: italic;
 	font-size: 14px;
 }
 hr {
