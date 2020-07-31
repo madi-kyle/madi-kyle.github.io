@@ -8,6 +8,7 @@ font-color: black;
 }
 h1, h2 {
 font-family: 'La Belle Aurore', cursive;
+font-size: 28px;
 }
 p {
 	color: black;
@@ -20,7 +21,9 @@ hr {
 }
 a {
 	color: black;
+	font-family: 'La Belle Aurore', cursive;
 }
 a:hover {
 	color: white;
+	font-family: 'La Belle Aurore', cursive;
 }
