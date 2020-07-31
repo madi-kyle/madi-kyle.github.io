@@ -2,17 +2,16 @@ body {
 text-align: center;
 background-color: #EDDBD9;
 font-color: black;
-font-family: monospace;
-font-family: 'Quicksand', sans-serif;
 }
 h1, h2 {
-text-transform: uppercase;
+font-family: 'Quicksand', sans-serif;
 }
 p {
 	color: black;
 	font-weight: bold;
 	font-style: italic;
-	font-size: 14px;
+	font-size: 16px;
+	font-family: monospace;
 }
 hr {
 	width:200px;
