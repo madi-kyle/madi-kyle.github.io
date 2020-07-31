@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=La+Belle+Aurore&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Vidaloka&display=swap');
 body {
 text-align: center;
 background-color: #EDDBD9;
@@ -8,7 +9,7 @@ font-color: black;
 font-family: 'Quicksand', sans-serif;
 }
 h1, h2 {
-font-family: 'Architects Daughter', cursive;
+font-family: 'Vidaloka', serif;
 line-height: 120%
 }
 p {
