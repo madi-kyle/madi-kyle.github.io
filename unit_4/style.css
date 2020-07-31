@@ -4,7 +4,7 @@ background-color: #EDDBD9;
 font-color: black;
 }
 h1, h2 {
-font-family: 'Quicksand', sans-serif;
+font-family: @import url(https://fonts.googleapis.com/css2?family=Quicksand&display=swap), sans-serif;
 }
 p {
 	color: black;
