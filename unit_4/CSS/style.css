@@ -1,17 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=La+Belle+Aurore&display=swap');
 body {
 text-align: center;
 background-color: #EDDBD9;
 font-color: black;
-font-family: 'Quicksand', sans-serif;
+
 }
 h1, h2 {
 text-transform: uppercase;
+font-family: 'La Belle Aurore', cursive;
 }
 p {
 	color: black;
 	font-weight: bold;
 	font-size: 16px;
+	font-family: 'Quicksand', sans-serif;
 }
 hr {
 	width:200px;
