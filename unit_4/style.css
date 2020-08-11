@@ -24,6 +24,7 @@ p {
 }
 hr {
 	width:200px;
+	align-items: left;
 }
 a {
 	color: black;
