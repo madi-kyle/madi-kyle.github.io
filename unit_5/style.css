@@ -34,6 +34,9 @@ a:hover {
 	color: white;
 	font-family: 'Quicksand', sans-serif;
 }
-Footer {
+img{
+	align-content: right;
+}
+footer {
 font-family: 'Architects Daughter', serif;	
 }
