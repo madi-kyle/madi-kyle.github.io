@@ -10,6 +10,7 @@ font-family: 'Quicksand', sans-serif;
 h1, h2 {
 font-family: 'Architects Daughter', serif;
 line-height: 120%
+padding: 2em;
 }
 h3 {
 font-family: 'Architects Daughter', serif;
@@ -33,12 +34,16 @@ a {
 a:hover {
 	color: white;
 	font-family: 'Quicksand', sans-serif;
+	text-decoration: italic;
 }
 img{
-	margin: 100px;
+	padding: 2em;
 
 }
 footer {
 font-family: 'Architects Daughter', serif;
 text-align: center;	
+}
+nav {
+padding: 2em;
 }
