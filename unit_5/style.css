@@ -22,7 +22,6 @@ p {
 	font-weight: bold;
 	font-size: 16px;
 	font-family: 'Quicksand', sans-serif;
-	text-align: left;
 }
 hr {
 	width:200px;
@@ -47,6 +46,7 @@ text-align: center;
 }
 nav {
 padding: 2em;
+text-align: left;
 }
 #wrapper {
 	width:960px;
