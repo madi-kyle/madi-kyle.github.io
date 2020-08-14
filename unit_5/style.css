@@ -47,3 +47,6 @@ text-align: center;
 nav {
 padding: 2em;
 }
+#wrapper {
+	width:90px;
+}
