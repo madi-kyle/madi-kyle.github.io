@@ -35,8 +35,10 @@ a:hover {
 	font-family: 'Quicksand', sans-serif;
 }
 img{
-	align-content: right;
+	margin: 100px;
+
 }
 footer {
-font-family: 'Architects Daughter', serif;	
+font-family: 'Architects Daughter', serif;
+text-align: center;	
 }
