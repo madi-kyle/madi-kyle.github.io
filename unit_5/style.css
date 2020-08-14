@@ -48,5 +48,6 @@ nav {
 padding: 2em;
 }
 #wrapper {
-	width:90px;
+	width:960px;
+	margin: 0 auto;
 }
