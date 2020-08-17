@@ -51,7 +51,8 @@ width: 100%;
 font-weight: bold;
 font-size: 16px;
 font-family: 'Quicksand', sans-serif;
-justify-content: space-between;
+margin-right: auto; 
+margin-left: auto;
 }
 .home {
 	text-transform: uppercase;
