@@ -50,6 +50,6 @@ padding: 1em;
 width: 100%;
 }
 .home {
-	text-transform: capitalize;
+	text-transform: uppercase;
 	text-align: left;
 }
