@@ -49,10 +49,6 @@ display: inline;
 padding: 1em;
 width: 100%;
 }
-#wrapper {
-	width:960px;
-	margin: 0 auto;
-}
 #home {
 	text-align: left;
 	font-family: 'Architects Daughter', serif;
