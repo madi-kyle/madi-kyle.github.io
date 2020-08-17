@@ -51,3 +51,7 @@ width: 100%;
 	width:960px;
 	margin: 0 auto;
 }
+#home {
+	text-align: left
+	font-family: 'Architects Daughter', serif;
+}
