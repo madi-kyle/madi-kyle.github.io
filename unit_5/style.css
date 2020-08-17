@@ -28,6 +28,7 @@ hr {
 a {
 	color: black;
 	font-family: 'Quicksand', sans-serif;
+	text-decoration: none;
 }
 a:hover {
 	color: white;
