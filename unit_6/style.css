@@ -49,10 +49,12 @@ font-family: 'Architects Daughter', serif;
 text-align: center;	
 }
 nav a {
-padding: 2em;
 font-weight: bold;
 font-size: 16px;
 font-family: 'Quicksand', sans-serif;
 margin-right: auto; 
 margin-left: auto;
+}
+nav{
+	padding: 2em;
 }
