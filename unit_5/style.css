@@ -54,9 +54,6 @@ font-family: 'Quicksand', sans-serif;
 margin-right: auto; 
 margin-left: auto;
 }
-nav a {
-	margin right: 20px;
-}
 header {
     background-color: #FFED74;
     border: 1px black solid;
@@ -76,4 +73,7 @@ section {
     background-color: #FFE2B8;
     border: 1px black solid;
     padding: 20px;
+}
+nav a {
+	margin right: 20px;
 }
