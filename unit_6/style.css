@@ -49,7 +49,7 @@ font-family: 'Architects Daughter', serif;
 text-align: center;	
 }
 nav{
-	padding: 2em;
+	margin-top: 20px;
 }
 nav a {
 font-weight: bold;
