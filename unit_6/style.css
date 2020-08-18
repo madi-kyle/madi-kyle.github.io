@@ -12,7 +12,7 @@ padding: 1em;
 h1, h2 {
 font-family: 'Architects Daughter', serif;
 line-height: 120%
-margin-top: 20px;
+padding: 1em;
 }
 h3 {
 font-family: 'Architects Daughter', serif;
@@ -37,7 +37,7 @@ a:hover {
 	font-style: italic;
 }
 img{
-	padding: 2em;
+	padding: 1em;
 
 }
 footer {
