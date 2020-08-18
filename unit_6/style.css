@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=La+Belle+Aurore&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Vidaloka&display=swap');
+body {
+background-color: #EDDBD9;
+font-color: black;
+font-family: 'Quicksand', sans-serif;
+margin: 20px;
+text-align: center;
+padding: 1em;
+}
+h1, h2 {
+font-family: 'Architects Daughter', serif;
+line-height: 120%
+}
+h3 {
+font-family: 'Architects Daughter', serif;
+}
+p {
+	color: black;
+	font-weight: bold;
+	font-size: 16px;
+	font-family: 'Quicksand', sans-serif;
+}
+hr {
+	width:200px;
+}
+a {
+	color: black;
+	font-family: 'Quicksand', sans-serif;
+	text-decoration: none;
+}
+a:hover {
+	color: white;
+	font-family: 'Quicksand', sans-serif;
+	font-style: italic;
+}
+img{
+	padding: 2em;
+
+}
+footer {
+font-family: 'Architects Daughter', serif;
+text-align: center;	
+}
+nav {
+padding: 1em;
+font-weight: bold;
+font-size: 16px;
+font-family: 'Quicksand', sans-serif;
+margin-right: 40px; 
+margin-left: 40px;
+}
