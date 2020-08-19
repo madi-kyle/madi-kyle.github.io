@@ -9,6 +9,7 @@ font-family: 'Quicksand', sans-serif;
 text-align: center;
 padding: 1em;
 font-size: 16px;
+margin: 2em auto;
 }
 h1 {
 font-family: 'Architects Daughter', serif;
@@ -29,6 +30,7 @@ p {
 	font-size: 1em;
 	font-family: 'Quicksand', sans-serif;
 	text-align: center;
+	width: 480px;
 }
 hr {
 	width:200px;
