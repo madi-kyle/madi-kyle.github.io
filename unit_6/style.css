@@ -27,6 +27,7 @@ p {
 	font-family: 'Quicksand', sans-serif;
 	width: 500px;
 	margin: auto;
+	line-height: 1.5em;
 	padding: 1em;
 }
 hr {
