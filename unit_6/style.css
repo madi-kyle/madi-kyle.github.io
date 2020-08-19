@@ -61,9 +61,8 @@ text-transform: uppercase;
 font-weight: bold;
 background-color: white;
 }
-ul {
+#skills {
 	font-weight:bold;
 	line-height: 1.5em;
 	text-align: left;
-	margin: auto;
 }
