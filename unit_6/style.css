@@ -77,3 +77,9 @@ background-color: white;
 	text-align: left;
 	margin: auto; 
 }
+main {
+	float: left;
+}
+aside {
+	float: right;
+}
