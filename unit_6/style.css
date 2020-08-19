@@ -61,11 +61,10 @@ text-transform: uppercase;
 font-weight: bold;
 background-color: white;
 }
-#navlinks: hover{
+#navlinks:hover {
 	color: #EDDBD9;
 	font-family: 'Quicksand', sans-serif;
 	font-style: italic;
-
 }
 #strengths {
 	font-weight:bold;
