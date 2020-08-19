@@ -25,6 +25,8 @@ p {
 	font-weight: bold;
 	font-size: 1em;
 	font-family: 'Quicksand', sans-serif;
+	width: 480px;
+	margin: auto;
 }
 hr {
 	width:200px;
@@ -46,7 +48,7 @@ text-align: center;
 nav a {
 padding: 2em;
 font-weight: bold;
-font-size: 16px;
+font-size: 1em;
 font-family: 'Quicksand', sans-serif;
 margin-right: auto; 
 margin-left: auto;
