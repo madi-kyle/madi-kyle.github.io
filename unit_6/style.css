@@ -25,8 +25,9 @@ p {
 	font-weight: bold;
 	font-size: 1em;
 	font-family: 'Quicksand', sans-serif;
-	width: 480px;
+	width: 600px;
 	margin: auto;
+	padding: 2em;
 }
 hr {
 	width:200px;
