@@ -43,7 +43,7 @@ a {
 	text-decoration: none;
 }
 a:hover {
-	color: white;
+	color: #EDDBD9;
 	font-family: 'Quicksand', sans-serif;
 	font-style: italic;
 }
@@ -60,11 +60,6 @@ margin: 2em auto;
 text-transform: uppercase;
 font-weight: bold;
 background-color: white;
-}
-#navlinks:hover {
-	color: #EDDBD9;
-	font-family: 'Quicksand', sans-serif;
-	font-style: italic;
 }
 #strengths {
 	font-weight:bold;
