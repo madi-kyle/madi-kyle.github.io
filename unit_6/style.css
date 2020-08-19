@@ -79,3 +79,12 @@ background-color: white;
 	text-align: left;
 	margin-left: 150px; 
 }
+main {
+	float: left;
+}
+aside {
+	float: right
+}
+footer{
+	clear: both;
+}
