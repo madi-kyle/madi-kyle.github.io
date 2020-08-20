@@ -90,6 +90,7 @@ main {
 aside {
 	float: right
 }
-#products {
+
+img {
 	width: 50%;
 }
