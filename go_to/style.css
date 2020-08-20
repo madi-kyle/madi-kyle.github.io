@@ -48,8 +48,11 @@ a:hover {
 	font-family: 'Playfair Display', serif;
 	font-style: italic;
 }
-img {
+#hero {
 	width: 100%;
+}
+#logo {
+	width: 10px
 }
 footer {
 font-family: 'Playfair Display', serif;
