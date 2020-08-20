@@ -91,4 +91,5 @@ aside {
 	float: right
 }
 #hero {
-	width: 100px;
+	width: auto;
+}
