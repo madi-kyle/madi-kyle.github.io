@@ -48,9 +48,6 @@ a:hover {
 	font-family: 'Playfair Display', serif;
 	font-style: italic;
 }
-#hero {
-	width: 100px;
-}
 #logo {
 	width: 10px
 }
@@ -92,3 +89,5 @@ main {
 aside {
 	float: right
 }
+#hero {
+	width: 100px;
