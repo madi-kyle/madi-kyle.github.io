@@ -48,6 +48,9 @@ a:hover {
 	font-family: 'Playfair Display', serif;
 	font-style: italic;
 }
+img {
+	width: 100%;
+}
 footer {
 font-family: 'Playfair Display', serif;
 text-align: center;	
