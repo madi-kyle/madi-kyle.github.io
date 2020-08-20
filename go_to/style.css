@@ -121,8 +121,7 @@ footer {
 	font-weight:bold;
 	line-height: 1.5em;
 	text-align: left;
-	width: 35em;
 	float: left;
-	margin-left: 150px;
+	margin: auto;
 	}
 }
