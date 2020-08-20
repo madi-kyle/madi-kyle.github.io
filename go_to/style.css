@@ -108,6 +108,7 @@ aside {
 #parttwo {
 	font-weight:bold;
 	line-height: 1.5em;
-	text-align: right;
+	text-align: left;
 	width: 35em;
+	float:;
 	}
