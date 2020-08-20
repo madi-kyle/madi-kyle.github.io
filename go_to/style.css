@@ -48,9 +48,6 @@ a:hover {
 	font-family: 'Playfair Display', serif;
 	font-style: italic;
 }
-#logo {
-	width: 10px
-}
 footer {
 font-family: 'Playfair Display', serif;
 text-align: center;	
@@ -93,4 +90,7 @@ aside {
 img {
 	max-width: 100%;
 	height: auto;
+}
+#logo {
+	width: 10px
 }
