@@ -104,6 +104,7 @@ aside {
 	line-height: 1.5em;
 	text-align: left;
 	width: 35em;
+	float: right;
 	}
 #parttwo {
 	font-weight:bold;
@@ -113,3 +114,6 @@ aside {
 	float: right;
 	margin-right: 150px; 
 	}
+footer {
+	clear: both;
+}
