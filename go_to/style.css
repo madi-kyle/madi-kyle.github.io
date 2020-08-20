@@ -104,7 +104,8 @@ aside {
 	line-height: 1.5em;
 	text-align: left;
 	width: 35em;
-	float: right;
+	float: left;
+	margin-left: 150px;
 	}
 #parttwo {
 	font-weight:bold;
