@@ -86,9 +86,8 @@ main {
 aside {
 	float: right
 }
-
 #products {
-	max-width: 100%;
+	width: 100%;
 	height: auto;
 }
 #logo {
