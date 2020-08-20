@@ -99,3 +99,8 @@ aside {
 	background-color: white;
 	padding: 20px 20px;
 }
+ol {
+	font-weight:bold;
+	line-height: 1.5em;
+	text-align: left;
+	}
