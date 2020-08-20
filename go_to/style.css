@@ -92,7 +92,7 @@ aside {
 }
 #logo {
 	width: 10px;
-	float: left;
+	/*float: left;*/
 	margin: 20px;
 }
 #navbar {
