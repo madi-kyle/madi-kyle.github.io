@@ -116,6 +116,7 @@ aside {
 	}
 footer {
 	margin: 40px;
+	clear: both;
 }
 #answers {
 	font-weight:bold;
