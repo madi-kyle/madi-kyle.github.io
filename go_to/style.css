@@ -50,6 +50,7 @@ a:hover {
 }
 #hero {
 	width: 100%;
+	margin: auto;
 }
 #logo {
 	width: 10px
