@@ -96,9 +96,9 @@ background-color: white;
 }
 
 #intro_text {
-    background-color: #EEEEEE;
-    border: 1px black solid;
-    padding: 20px;
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
     float: left;
     width: 40%;
 }
