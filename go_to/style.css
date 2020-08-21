@@ -61,9 +61,14 @@ text-transform: uppercase;
 font-weight: bold;
 background-color: white;
 }
+footer {
+	margin: 10px;
+	padding: 10px;
+	clear: both;
+	}
 .column {
 	width: 400px;
-	height: 400px;
+	height: 300px;
 	padding: 10px 20px;
 	margin: 20px;
 	float: left;
@@ -110,10 +115,6 @@ background-color: white;
 	line-height: 1.5em;
 	text-align: left;
 	}
-footer {
-	margin: 10px;
-	padding: 10px;
-	clear: both;
 }
 #answers {
 	font-weight:bold;
