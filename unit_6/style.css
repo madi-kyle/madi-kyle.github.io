@@ -44,7 +44,7 @@ a {
 }
 a:hover {
 	color: #EDDBD9;
-	font-family: 'Quicksand', sans-serif;
+	font-family: 'Architects Daughter', serif;
 	font-style: italic;
 }
 footer {
@@ -60,6 +60,10 @@ margin: 2em auto;
 text-transform: uppercase;
 font-weight: bold;
 background-color: white;
+}
+#navbar {
+	background-color: white;
+	padding: 20px 20px;
 }
 #strengths {
 	font-weight:bold;
