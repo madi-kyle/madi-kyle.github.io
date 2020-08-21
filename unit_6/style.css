@@ -89,3 +89,14 @@ background-color: white;
 	text-align: left;
 	background-color: white; 
 }
+#hero_image {
+    background-color: white;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#intro_text {
+    background-color: pink;
+    border: 1px black solid;
+    padding: 20px;
+}
