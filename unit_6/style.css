@@ -43,7 +43,7 @@ a {
 	text-decoration: none;
 }
 a:hover {
-	color: #EDDBD9;
+	background-color: #EDDBD9;
 	font-family: 'Architects Daughter', serif;
 	font-style: italic;
 }
