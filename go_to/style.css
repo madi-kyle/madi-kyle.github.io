@@ -81,13 +81,7 @@ background-color: white;
 	font-weight:bold;
 	line-height: 1.5em;
 	text-align: left; 
-}
-main {
-	float: left;
-}
-aside {
-	float: right
-}
+
 #products img{
 	max-width: 100%;
 	height: auto;
