@@ -52,7 +52,7 @@ font-family: 'Architects Daughter', serif;
 text-align: center;	
 }
 nav a {
-padding: 2em;
+padding: 20px;
 font-weight: bold;
 font-size: 1em;
 font-family: 'Quicksand', sans-serif;
@@ -63,7 +63,7 @@ background-color: white;
 }
 #navbar {
 	background-color: white;
-	padding: 2em;
+	padding: 20px;
 }
 #strengths {
 	font-weight:bold;
