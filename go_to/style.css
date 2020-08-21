@@ -104,17 +104,13 @@ background-color: white;
 	font-weight:bold;
 	line-height: 1.5em;
 	text-align: left;
-	width: 35em;
-	float: left;
-	margin-left: 150px;
+	background-color: white; 
 	}
 #parttwo {
 	font-weight:bold;
 	line-height: 1.5em;
 	text-align: left;
-	width: 35em;
-	float: right;
-	margin-right: 150px; 
+	background-color: white; 
 	}
 footer {
 	margin: 10px;
