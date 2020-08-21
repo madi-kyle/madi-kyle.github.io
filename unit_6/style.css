@@ -100,3 +100,11 @@ background-color: white;
     float: left;
     width: 40%;
 }
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: "clearfix";
+    clear: both;
+    height: 0;
+}
