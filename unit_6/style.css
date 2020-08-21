@@ -116,8 +116,6 @@ width: 16%;
 	background-color: black;
 	margin: 10px 0px;
 }
-
-
 .clearfix:after {
     visibility: hidden;
     display: block;
