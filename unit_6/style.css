@@ -95,7 +95,7 @@ background-color: white;
     padding: 0px;
     float: left;
     width: 45%;
-    margin: 40px 0px 20px 50px;
+    margin: 40px 0px 0px 50px;
     /*margins seem to be causing issues when I resize the window*/
 }
 #intro_text {
