@@ -61,6 +61,12 @@ text-transform: uppercase;
 font-weight: bold;
 background-color: white;
 }
+.column {
+	width: 260px;
+	height: 300px;
+	padding: 20px;
+	margin:0;
+}
 #strengths {
 	font-weight:bold;
 	line-height: 1.5em;
