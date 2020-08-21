@@ -93,10 +93,14 @@ background-color: white;
     background-color: white;
     border: 1px black solid;
     padding: 20px;
+    float: left;
+    width:62%;
 }
 
 #intro_text {
     background-color: #EEEEEE;
     border: 1px black solid;
     padding: 20px;
+    float: left;
+    width:30%%;
 }
