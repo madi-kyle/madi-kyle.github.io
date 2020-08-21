@@ -90,8 +90,6 @@ background-color: white;
 	background-color: white; 
 }
 #hero_image {
-    background-color: white;
-    border: 1px black solid;
     padding: 20px;
     float: left;
     width: 40%;
