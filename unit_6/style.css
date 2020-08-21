@@ -66,8 +66,7 @@ background-color: white;
 	padding: 20px;
 }
 .column {
-	width: 400px;
-	height: 300px;
+	width: 25%;
 	padding: 10px 20px;
 	margin: 20px;
 	float: left;
