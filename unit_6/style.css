@@ -49,6 +49,7 @@ a:hover {
 footer {
 font-family: 'Architects Daughter', serif;
 text-align: center;	
+clear: both;
 }
 nav a {
 padding: 20px;
