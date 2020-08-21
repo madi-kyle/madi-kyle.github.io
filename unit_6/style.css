@@ -52,6 +52,7 @@ text-align: center;
 }
 nav a {
 padding: 20px;
+width: 40px;
 font-weight: bold;
 font-size: 1em;
 font-family: 'Quicksand', sans-serif;
@@ -63,7 +64,7 @@ background-color: white;
 #navbar {
 	background-color: white;
 	padding: 20px;
-	width: 120px;
+	width: 360px;
 }
 .column {
 	width: 400px;
