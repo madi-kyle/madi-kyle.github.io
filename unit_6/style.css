@@ -95,6 +95,7 @@ background-color: white;
     padding: 0px;
     float: left;
     width: 60%;
+    margin: 20px;
 }
 #intro_text {
     float: left;
@@ -102,6 +103,7 @@ background-color: white;
     font-weight:bold;
 	line-height: 1.5em;
 	text-align: left;
+	margin: 20px;
 }
 .clearfix:after {
     visibility: hidden;
