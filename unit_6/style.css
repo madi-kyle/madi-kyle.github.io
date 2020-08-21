@@ -100,5 +100,6 @@ background-color: white;
     padding: 10px;
     margin: 10px;
     float: left;
-    width: 30%;
+    width: 35%;
+    text-align: left;
 }
