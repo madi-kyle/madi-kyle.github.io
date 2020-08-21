@@ -64,8 +64,8 @@ background-color: white;
 .column {
 	width: 400px;
 	height: 300px;
-	padding: 20px;
-	margin:0;
+	padding: 40px;
+	margin: 0;
 	float: left;
 }
 #strengths {
