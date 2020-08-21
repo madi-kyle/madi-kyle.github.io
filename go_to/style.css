@@ -72,16 +72,19 @@ background-color: white;
 	font-weight:bold;
 	line-height: 1.5em;
 	text-align: left;
+	background-color: white;
 }
 #skills {
 	font-weight:bold;
 	line-height: 1.5em;
 	text-align: left;
+	background-color: white;
 }
 #awards {
 	font-weight:bold;
 	line-height: 1.5em;
-	text-align: left; 
+	text-align: left;
+	background-color: white; 
 }
 #products img{
 	max-width: 100%;
