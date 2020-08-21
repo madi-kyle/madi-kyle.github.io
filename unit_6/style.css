@@ -39,7 +39,6 @@ hr {
 a {
 	color: black;
 	font-family: 'Quicksand', sans-serif;
-	/*text-decoration: none;*/
 }
 a:hover {
 	background-color: #EDDBD9;
@@ -61,6 +60,7 @@ text-transform: uppercase;
 font-weight: bold;
 background-color: white;
 width: 16%;
+text-decoration: none;
 }
 #navbar {
 	background-color: white;
