@@ -64,24 +64,6 @@ background-color: white;
 	background-color: white;
 	padding: 20px;
 }
-#strengths {
-	font-weight:bold;
-	line-height: 1.5em;
-	text-align: left;
-	margin-left: 150px;
-}
-#skills {
-	font-weight:bold;
-	line-height: 1.5em;
-	text-align: left;
-	margin-left: 150px;
-}
-#awards {
-	font-weight:bold;
-	line-height: 1.5em;
-	text-align: left;
-	margin-right: 150px; 
-}
 .column {
 	width: 400px;
 	height: 400px;
