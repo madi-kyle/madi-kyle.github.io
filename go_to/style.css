@@ -62,8 +62,6 @@ font-weight: bold;
 background-color: white;
 }
 .column {
-	width: 400px;
-	height: 300px;
 	padding: 10px 20px;
 	margin: 20px;
 	float: left;
@@ -73,18 +71,24 @@ background-color: white;
 	line-height: 1.5em;
 	text-align: left;
 	background-color: white;
+	width: 400px;
+	height: 300px;
 }
 #skills {
 	font-weight:bold;
 	line-height: 1.5em;
 	text-align: left;
 	background-color: white;
+	width: 400px;
+	height: 300px;
 }
 #awards {
 	font-weight:bold;
 	line-height: 1.5em;
 	text-align: left;
-	background-color: white; 
+	background-color: white;
+	width: 400px;
+	height: 300px;
 }
 #products img{
 	max-width: 100%;
@@ -104,11 +108,15 @@ background-color: white;
 	font-weight:bold;
 	line-height: 1.5em;
 	text-align: left;
+	width: 50%;
+	height: auto;
 	}
 #parttwo {
 	font-weight:bold;
 	line-height: 1.5em;
 	text-align: left;
+	width: 50%;
+	height: auto;
 	}
 footer {
 	margin: 10px;
