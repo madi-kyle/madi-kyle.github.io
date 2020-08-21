@@ -83,12 +83,28 @@ background-color: white;
 	text-align: left;
 	margin-right: 150px; 
 }
-main {
+.column {
+	width: 400px;
+	height: 400px;
+	padding: 10px 20px;
+	margin: 20px;
 	float: left;
 }
-aside {
-	float: right
+#strengths {
+	font-weight:bold;
+	line-height: 1.5em;
+	text-align: left;
+	background-color: white;
 }
-footer{
-	clear: both;
+#skills {
+	font-weight:bold;
+	line-height: 1.5em;
+	text-align: left;
+	background-color: white;
+}
+#awards {
+	font-weight:bold;
+	line-height: 1.5em;
+	text-align: left;
+	background-color: white; 
 }
