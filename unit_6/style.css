@@ -40,6 +40,13 @@ a {
 	color: black;
 	font-family: 'Quicksand', sans-serif;
 }
+#intro_hr > a {
+	color: black;
+	font-family: 'Quicksand', sans-serif;
+	text-decoration: none;
+	border-bottom: 1px;
+	padding: 5px;
+}
 a:hover {
 	background-color: #EDDBD9;
 	font-family: 'Architects Daughter', serif;
