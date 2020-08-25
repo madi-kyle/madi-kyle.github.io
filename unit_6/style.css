@@ -94,6 +94,7 @@ text-decoration: none;
 }
 #portrait img {
 	width: 100%;
+	border: 3px solid black;
 }
 .wrapper_about {
 	width: 100%;
@@ -142,11 +143,3 @@ text-decoration: none;
     content: " ";
     clear: both;
     height: 0;
-}
-/*#my_portrait {
-    padding: 0px;
-    width: 20%;
-    margin: 20px;
-}
-#my_portrait img {
-	width: 100%*/
