@@ -46,9 +46,6 @@ a:hover {
 	font-family: 'Architects Daughter', serif;
 	font-style: italic;
 }
-img {
-	width: 100%
-}
 footer {
 font-family: 'Architects Daughter', serif;
 text-align: center;	
@@ -74,10 +71,10 @@ text-decoration: none;
 	margin: auto;
 }
 .column {
-	width: 27%;
-	height: 330px;
+	width: 20%;
+	/*height: 330px;*/
 	margin: 1.5%;
-	padding: 0px 15px 0px 15px;
+	padding: 1%;
 	float: left;
 }
 #strengths {
@@ -95,11 +92,12 @@ text-decoration: none;
 	line-height: 1.5em;
 	text-align: left;
 }
+#portrait img {
+	width: 100%;
+}
 .wrapper_about {
-	width: 90%;
+	width: 100%;
 	margin: auto;
-	height: 400px;
-
 }
 .wrapper_index {
 	width: 80%;
@@ -110,6 +108,9 @@ text-decoration: none;
     float: left;
     width: 40%;
     margin: 20px;
+}
+#hero_image img {
+	width: 100%
 }
 #intro_text {
     float: left;
@@ -142,3 +143,10 @@ text-decoration: none;
     clear: both;
     height: 0;
 }
+/*#my_portrait {
+    padding: 0px;
+    width: 20%;
+    margin: 20px;
+}
+#my_portrait img {
+	width: 100%*/
