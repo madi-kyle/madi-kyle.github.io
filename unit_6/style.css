@@ -71,7 +71,7 @@ text-decoration: none;
 }
 .column {
 	width: 25%;
-	height: 300px;
+	height: 350px;
 	padding: 10px 20px 20px;
 	margin: 20px;
 	float: left;
@@ -117,9 +117,11 @@ text-decoration: none;
 	margin: 10px 0px;
 }
 #intro_text > a {
-	border-bottom: 1px
-	padding: 5px;
-	color: red;
+	padding: .5px;
+	text-decoration: none;
+}
+#intro_text > a:hover {
+	color: white;
 }
 .clearfix:after {
     visibility: hidden;
