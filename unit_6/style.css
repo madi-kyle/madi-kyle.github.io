@@ -179,7 +179,7 @@ p {
 }
 #mobile {
 	display: block;
-	float; left
+	font-size: 1.5em;
 }
 nav:hover a {
 	display: block;
