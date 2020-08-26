@@ -123,9 +123,10 @@ nav a {
 width: auto;
 float: none;
 display: block;
+padding: 0.5em;
 }
 nav {
-width: auto;
+width: 40%;
 float: none;
 }
 #intro_text {
@@ -147,4 +148,7 @@ float: none;
 #intro_text > hr {
 	margin: 1em auto;
 	width: 200px;
+}
+#wrapper {
+	width: auto;
 }
