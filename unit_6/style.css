@@ -118,3 +118,28 @@ nav {
     clear: both;
     height: 0;
 }
+@media only screen and (max-width: 880px) {
+nav a {
+display: block;
+padding: none;
+margin: none;
+}
+nav {	
+float: left;
+padding: none;
+margin: none;
+}
+#intro_text {
+    float: right;
+    margin: none;
+    padding: none;
+}
+ #hero_image {
+    padding: none;
+    float: right;
+    margin: none;
+}
+ #hero_image img {
+	width: 100%
+}
+}
