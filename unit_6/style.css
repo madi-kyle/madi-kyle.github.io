@@ -122,7 +122,7 @@ nav {
 #mobile {
 	display: none;
 }
-@media only screen and (max-width: 862px) {
+@media only screen and (max-width: 880px) {
 nav a {
 width: auto;
 float: none;
@@ -166,7 +166,7 @@ background-color: #EDDBD9;
 	text-align: center;
 }
 #portrait img {
-	width: 30%;
+	width: 40%;
 	border: 3px solid black;
 	margin: auto;
 	text-align: center;
