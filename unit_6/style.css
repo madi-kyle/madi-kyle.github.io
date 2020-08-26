@@ -47,14 +47,12 @@ clear: both;
 padding: 1em;
 }
 nav a {
-/*padding: 1em;*/
 padding: 1em;
 font-weight: bold;
 font-family: 'Quicksand', sans-serif;
 text-transform: uppercase;
 font-weight: bold;
 background-color: white;
-/*margin: auto;*/
 text-decoration: none;
 background-color: white;
 }
@@ -62,7 +60,6 @@ nav {
 	background-color: white;
 	padding: 1em;
 	/*width: 70%;*/
-	width: 70%;
 	margin: auto;
 }
 .column {
