@@ -157,10 +157,22 @@ float: none;
 	float: none;
 	width: 80%;
 	margin: auto;
+	text-align: center;
 }
 #portrait img {
-	width: 40%;
+	width: 30%;
 	border: 3px solid black;
 	margin: auto;
+	text-align: center;
 }
+ul {
+	text-align: left
+}
+p {
+	width: auto;
+}
+}
+@media only screen and (max-width: 880px) {
+body {
+	font-size: 20px;
 }
