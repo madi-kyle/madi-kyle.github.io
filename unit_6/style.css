@@ -120,26 +120,31 @@ nav {
 }
 @media only screen and (max-width: 880px) {
 nav a {
+width: auto;
+float: none;
 display: block;
-padding: none;
-margin: none;
 }
-nav {	
-float: left;
-padding: none;
-margin: none;
+nav {
+width: auto;
+float: none;
 }
 #intro_text {
-    float: right;
+    float: none;
     margin: none;
-    padding: none;
+    padding: 0em 2em;
+    width: 90%;
+    text-align: center;
 }
  #hero_image {
     padding: none;
-    float: right;
+    float: none;
     margin: none;
+    width: 90%;
 }
  #hero_image img {
 	width: 100%
 }
+#intro_text > hr {
+	margin: 1em auto;
+	width: 200px;
 }
