@@ -91,7 +91,8 @@ nav {
     margin: 2em;
 }
 #hero_image img {
-	width: 80%
+	width: 80%;
+	max-width: 491px;
 }
 #intro_text {
     float: left;
