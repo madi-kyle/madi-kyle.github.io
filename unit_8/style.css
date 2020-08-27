@@ -129,6 +129,7 @@ float: none;
 background-color: #EDDBD9;
 margin: none;
 padding: none;
+text-align: left;
 }
 #intro_text {
     float: none;
@@ -178,6 +179,7 @@ p {
 	font-weight: bold;
 	margin: none;
 	padding: none;
+	text-align: left;
 }
 nav:hover a {
 	display: block;
