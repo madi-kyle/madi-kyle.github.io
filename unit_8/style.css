@@ -214,3 +214,7 @@ h2, h3 {
 #intro_text > a {
 	border-bottom: 1px solid black;
 }
+#work_experience{
+	width: 100%;
+}
+}
