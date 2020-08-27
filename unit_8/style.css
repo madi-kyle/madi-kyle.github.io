@@ -121,17 +121,13 @@ nav {
 }
 @media only screen and (max-width: 880px) {
 nav a {
-width: auto;
-float: none;
-display: block;
-padding: 0.25em;
 display: none;
-background-color: #EDDBD9;
 }
 nav {
-width: 40%;
+width: 100%;
 float: none;
 background-color: #EDDBD9;
+text-align: left;
 }
 #intro_text {
     float: none;
@@ -147,7 +143,8 @@ background-color: #EDDBD9;
     width: 90%;
 }
  #hero_image img {
-	width: 100%
+	width: 100%;
+	margin: none;
 }
 #intro_text > hr {
 	margin: 1em auto;
@@ -176,7 +173,11 @@ p {
 }
 #mobile {
 	display: block;
-	font-size: 1.5em;
+	font-size: 1.8em;
+	font-weight: bold;
+	text-align: left;
+	margin: none;
+	padding: none;
 }
 nav:hover a {
 	display: block;
