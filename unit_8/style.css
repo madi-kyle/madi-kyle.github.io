@@ -31,6 +31,10 @@ hr {
 ul {
 	padding: 0px;
 }
+li {
+	text-align: left;
+	font-weight: bold;
+}
 a {
 	color: black;
 }
@@ -107,6 +111,23 @@ nav {
 }
 #intro_text > a:hover {
 	color: white;
+}
+#work_experience{
+	width: 40%;
+	margin: auto;
+	font-style: bold;
+	line-height: 2em;
+}
+#work_experience > h5 {
+	text-align: left;
+	text-decoration: underline;
+	font-size: 1em;
+}
+#work_experience > hr {
+	width: 40%;
+}
+#work_experience > p {
+	width: 100%;
 }
 .clearfix.after{
     visibility: hidden;
