@@ -21,12 +21,12 @@ p {
 hr {
 	width: 15%;
 	border: none;
-	height:2px;
+	height: 2px;
 	background-color: black;
 	margin: 1em auto;
 }
 ul {
-	padding: 0px;
+	padding: none;
 }
 a {
 	color: black;
@@ -51,9 +51,7 @@ text-decoration: none;
 background-color: #EDDBD9;
 }
 nav {
-	background-color: #EDDBD9;
 	padding: 1em;
-	/*width: 70%;*/
 	margin: auto;
 }
 .column {
@@ -78,7 +76,6 @@ nav {
 	margin: auto;
 }
 #hero_image {
-    padding: 0px;
     float: left;
     width: 40%;
     margin: 2em;
