@@ -217,6 +217,7 @@ font-size: 1em;
 
 #intro_text > a {
 	border-bottom: 1px solid black;
+	margin: auto;
 }
 #work_experience{
 	width: 90%;
