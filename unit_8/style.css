@@ -129,6 +129,11 @@ nav {
 #work_experience > p {
 	width: 100%;
 }
+#ad_examples img {
+	width: 20%;
+	float: left;
+	margin: 2%;
+}
 .clearfix.after{
     visibility: hidden;
     display: block;
