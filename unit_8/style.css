@@ -148,11 +148,12 @@ nav {
 @media only screen and (max-width: 880px) {
 nav a {
 display: none;
+padding: 0.6em;
 }
 nav {
 width: 100%;
 float: none;
-background-color: #EDDBD9;
+height: 1%;
 margin: none;
 padding: none;
 text-align: left;
