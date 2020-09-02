@@ -135,6 +135,10 @@ nav {
 	width: 22%;
 	margin: 1%;
 }
+#digital img {
+	width: 50%;
+	margin: 1%;
+}
 .clearfix.after{
     visibility: hidden;
     display: block;
@@ -233,5 +237,9 @@ font-size: 1em;
 	width: 40%;
 	float: none;
 	margin: 1.5%;
+}
+#digital img {
+	width: 90%;
+	margin: 1%;
 }
 }
