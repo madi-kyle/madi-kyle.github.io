@@ -127,10 +127,19 @@ nav {
 #work_experience > p {
 	width: 100%;
 }
-
 #work_experience > img {
 	width: 20%;
+	}
+#qualifications {
+	width: 40%;
+	margin: auto;
+	line-height: 2em;
 }
+#qualifications > img {
+	height: 2em;
+	margin: 3%;
+}
+
 #ad_examples img {
 	width: 22%;
 	margin: 1%;
