@@ -139,6 +139,10 @@ nav {
 	width: 50%;
 	margin: 1%;
 }
+#contact img {
+	width: 25%;
+	margin: 1%;
+}
 .clearfix.after{
     visibility: hidden;
     display: block;
