@@ -133,6 +133,11 @@ nav {
 	float: left;
 	margin: 1%;
 }
+#event_examples img {
+	width: 18%;
+	float: left;
+	margin: 1%;
+}
 .clearfix.after{
     visibility: hidden;
     display: block;
@@ -221,5 +226,15 @@ font-size: 1em;
 }
 #work_experience{
 	width: 90%;
+}
+#ad_examples img {
+	width: 30%;
+	float: left;
+	margin: 1.5%;
+}
+#event_examples img {
+	width: 30%;
+	float: left;
+	margin: 1.5%;
 }
 }
