@@ -130,12 +130,10 @@ nav {
 }
 #ad_examples img {
 	width: 18%;
-	float: left;
 	margin: 1%;
 }
 #event_examples img {
 	width: 18%;
-	float: left;
 	margin: 1%;
 }
 .clearfix.after{
@@ -229,12 +227,12 @@ font-size: 1em;
 }
 #ad_examples img {
 	width: 30%;
-	float: left;
+    float: none;
 	margin: 1.5%;
 }
 #event_examples img {
 	width: 30%;
-	float: left;
+	float: none;
 	margin: 1.5%;
 }
 }
