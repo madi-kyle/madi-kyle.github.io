@@ -81,6 +81,7 @@ nav {
 .wrapper_index {
 	width: 100%;
 	margin: auto;
+	text-align: center;
 }
 #hero_image {
     padding: 0px;
@@ -177,8 +178,7 @@ text-align: left;
 }
 #intro_text {
     float: none;
-    margin: none;
-    padding: 0em 2em;
+    margin: auto;
     width: 90%;
     text-align: center;
 }
