@@ -15,7 +15,6 @@ h1 {
 }
 p {
 	font-weight: bold;
-	width: 30em;
 	margin: 1em auto;
 	line-height: 1.5em;
 	text-align: center;
@@ -36,19 +35,25 @@ li {
 }
 a {
 	color: black;
+	transition: color .5s ease;
+	transition: border .5s ease;
 }
 a:hover {
 	font-family: 'Architects Daughter', serif;
-	font-style: italic;
 	color: white;
 }
 footer {
 font-family: 'Architects Daughter', serif;
 clear: both;
-padding: 1em;
+padding: 1%;
+font-weight: normal;
+}
+footer p {
+font-weight: normal;
 }
 nav a {
-padding: 1em;
+padding: .5em;
+margin: 1em;
 font-weight: bold;
 font-family: 'Quicksand', sans-serif;
 text-transform: uppercase;
@@ -60,6 +65,10 @@ nav {
 	background-color: #EDDBD9;
 	padding: 1em;
 	margin: auto;
+	height: 2em;
+}
+nav a:hover {
+border-bottom: white 3px solid;
 }
 .column {
 	width: 20%;
@@ -81,37 +90,33 @@ nav {
 .wrapper_index {
 	width: 100%;
 	margin: auto;
-	text-align: center;
 }
 #hero_image {
-    padding: 0px;
     float: left;
-    width: 40%;
-    margin: 2em;
-}
-#hero_image img {
-	width: 80%;
-	max-width: 491px;
+    width: 46%;
+    margin: 2%;
+    max-width: 491px;
 }
 #intro_text {
     float: left;
-    width: 40%;
+    width: 46%;
     font-weight:bold;
 	line-height: 1.5em;
 	text-align: left;
-	margin: 2em 0em;
+	margin: 2%;
+}
+#intro_text > p {
+text-align: left;
+margin: 5% 0%;
 }
 #intro_text > hr {
 	margin: 10px 0px;
-	width: 50%;
+	width: 30%;
 }
-#intro_text > a {
-	text-decoration: none;
+#email {
+	width: 2em;
 }
-#intro_text > a:hover {
-	color: white;
-}
-#work_experience{
+#work_experience {
 	width: 40%;
 	margin: auto;
 	font-style: bold;
@@ -126,7 +131,7 @@ nav {
 	width: 40%;
 }
 #work_experience > p {
-	width: 100%;
+	width: 30em;
 }
 #work_experience > img {
 	width: 20%;
@@ -153,6 +158,9 @@ nav {
 	width: 50%;
 	margin: 1%;
 }
+#digital p {
+	width: 30em;
+}
 #contact img {
 	width: 25%;
 	margin: 1%;
@@ -168,17 +176,36 @@ nav {
 #mobile {
 	display: none;
 }
-@media only screen and (max-width: 880px) {
+@media only screen and (max-width: 980px) {
+nav a {
+padding: 0.5em;
+margin: 1em 0em;
+width: 100%;
+}
+nav {
+	padding: 0em;
+	margin: auto;
+	height: 2em;
+}
+@media only screen and (max-width: 800px) {
+
+nav {
+text-align: left;
+display: inline;
+}
 nav a {
 display: none;
 padding: 0.6em;
+transition: color .5s ease;
 }
-nav {
-text-align: left;
+nav a:hover {
+border: none;
+
 }
 #intro_text {
     float: none;
-    margin: auto;
+    margin: none;
+    padding: 0em 2em;
     width: 90%;
     text-align: center;
 }
@@ -238,6 +265,9 @@ h4, h5 {
 font-size: 1em;
 }
 
+#intro_text > p {
+	text-align: center;
+}
 #intro_text > a {
 	border-bottom: 1px solid black;
 	margin: auto;
