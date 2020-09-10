@@ -158,7 +158,7 @@ margin: 5% 0%;
 	margin: 1%;
 }
 #digital p {
-	width: 30em;
+	width: 50%;
 }
 #contact > img {
 	width: 25%;
@@ -302,6 +302,10 @@ font-size: 1em;
 	width: 90%;
 	margin: 1%;
 	}
+#digital p {
+	width: 90%;
+}
+
 #ad_examples img {
 	width: 90%;
     float: none;
