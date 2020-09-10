@@ -1,22 +1,27 @@
-@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 body {
-background-color: #EDDBD9;
-font-family: 'Quicksand', sans-serif;
-text-align: center;
+background-color: #e3e4e6;
 font-size: 16px;
+text-align: center;
+font-family: 'Kumbh Sans', sans-serif;
 }
 h1, h2, h3 {
-font-family: 'Architects Daughter', serif;
+font-family: 'Playfair Display', serif;
+letter-spacing: .2em;
+text-transform: uppercase;
 }
 h1 {
-	font-size: 2em;
+	font-size: 1.8em;
+}
+h2 {
+	font-size: 1.3em;
 }
 p {
-	font-weight: bold;
 	margin: 1em auto;
 	line-height: 1.5em;
 	text-align: center;
+	font-family: 'Kumbh Sans', sans-serif;
 }
 hr {
 	width: 15%;
@@ -30,51 +35,48 @@ ul {
 }
 li {
 	text-align: left;
-	font-weight: bold;
 }
 a {
 	color: black;
-	transition: color .5s ease;
-	transition: border .5s ease;
 }
 a:hover {
-	font-family: 'Architects Daughter', serif;
-	color: white;
+font-color: white;
+font-style: italic;
 }
 footer {
-font-family: 'Architects Daughter', serif;
+font-family: 'Playfair Display', serif;
 clear: both;
 padding: 1% 0% 0%;
 font-weight: normal;
 }
 footer p {
-font-weight: normal;
+font-color: #fad014;
 }
 nav a {
 padding: .5em;
 margin: 1em;
-font-weight: bold;
-font-family: 'Quicksand', sans-serif;
+font-family: 'Playfair Display', serif;
 text-transform: uppercase;
 font-weight: bold;
 text-decoration: none;
-background-color: #EDDBD9;
+background-color: #e3e4e6;
+letter-spacing: .2em;
 }
 nav {
-	background-color: #EDDBD9;
+	background-color: #e3e4e6;
 	padding: 1em;
 	margin: auto;
 	height: 2em;
 }
 nav a:hover {
-border-bottom: white 3px solid;
+border-bottom: #f7d22a 3px solid;
+font-color: black;
 }
 .column {
 	width: 20%;
 	margin: 1.5%;
 	padding: 1%;
 	float: left;
-	font-weight:bold;
 	line-height: 1.5em;
 	text-align: left;
 }
@@ -86,27 +88,15 @@ border-bottom: white 3px solid;
 	width: 100%;
 	margin: auto;
 }
-.wrapper_index {
-	width: 100%;
-	margin: auto;
-}
-#hero_image {
-    float: left;
-    width: 46%;
-    margin: .5% 2%;
+#home {
+    width: 60%;
     max-width: 491px;
 }
 #intro_text {
-    float: left;
-    width: 46%;
-    font-weight:bold;
+    width: 40em;
 	line-height: 1.5em;
-	text-align: left;
-	margin: .5% 2%;
-}
-#intro_text > p {
-text-align: left;
-margin: 5% 0%;
+	margin: auto;
+	text-align center;
 }
 #intro_text > hr {
 	margin: 10px 0px;
@@ -118,7 +108,6 @@ margin: 5% 0%;
 #work_experience {
 	width: 40%;
 	margin: auto;
-	font-style: bold;
 	line-height: 2em;
 }
 #work_experience > h5 {
@@ -175,7 +164,7 @@ margin: 5% 0%;
 #mobile {
 	display: none;
 }
-@media only screen and (max-width: 980px) {
+@media only screen and (max-width: 1150px) {
 nav a {
 padding: 0.5em;
 margin: 1em 0em;
@@ -186,7 +175,7 @@ nav {
 	margin: 2em 0em;
 	height: 2em;
 }
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 930px) {
 
 nav {
 text-align: left;
@@ -203,15 +192,15 @@ border: none;
 }
 #intro_text {
     float: none;
-    margin: 0px;
+    margin: none;
     padding: 0em 2em;
     width: 90%;
     text-align: center;
 }
- #hero_image {
+ #paspaley {
     padding: none;
     float: none;
-    margin: 0px;
+    margin: auto;
     width: 90%;
 }
  #hero_image img {
@@ -246,7 +235,6 @@ p {
 #mobile {
 	display: block;
 	font-size: 1.5em;
-	font-weight: bold;
 	margin: none;
 	padding: none;
 	text-align: left;
@@ -306,4 +294,4 @@ font-size: 1em;
 	width: 90%;
     float: none;
 	margin: 1.5%;
-}
+}*/
