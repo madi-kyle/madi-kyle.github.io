@@ -212,8 +212,8 @@ border: none;
 text-align: center;
 margin: 0%;
 }
- #hero_image {
-    padding: none;
+#hero_image {
+    padding: 0em 2em;
     float: none;
     margin: 0px;
     width: 90%;
