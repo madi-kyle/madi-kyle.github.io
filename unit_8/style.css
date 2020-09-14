@@ -274,6 +274,9 @@ font-size: 1em;
 #work_experience{
 	width: 90%;
 }
+#work_experience > p{
+	width: 90%;
+}
 #qualifications{
 	width: 90%;
 }
