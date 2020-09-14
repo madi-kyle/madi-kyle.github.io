@@ -45,7 +45,6 @@ footer {
 font-family: 'Architects Daughter', serif;
 clear: both;
 padding: 1% 0% 0%;
-font-weight: normal;
 }
 footer p {
 font-weight: normal;
@@ -81,14 +80,6 @@ border-bottom: white 3px solid;
 #portrait img {
 	width: 100%;
 	border: 3px solid black;
-}
-.wrapper_about {
-	width: 100%;
-	margin: auto;
-}
-.wrapper_index {
-	width: 100%;
-	margin: auto;
 }
 #hero_image {
     float: left;
@@ -236,6 +227,10 @@ margin: 0%;
 	border: 3px solid black;
 	margin: auto;
 	text-align: center;
+}
+
+#contact img {
+	width: 90%;
 }
 ul {
 	text-align: left
