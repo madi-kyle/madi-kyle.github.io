@@ -4,7 +4,7 @@ body {
 background-color: #EDDBD9;
 font-family: 'Quicksand', sans-serif;
 text-align: center;
-font-size: 18px;
+font-size: 17px;
 }
 h1, h2, h3 {
 font-family: 'Architects Daughter', serif;
@@ -59,7 +59,7 @@ text-decoration: none;
 background-color: #EDDBD9;
 font-family: 'Architects Daughter', serif;
 border-bottom: transparent 0px solid;
-transition: color .5s ease;
+/*transition: color .5s ease;*/
 transition: border .5s ease;
 }
 nav {
