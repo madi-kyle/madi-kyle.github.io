@@ -34,11 +34,11 @@ li {
 }
 a {
 	color: black;
-	font-family: 'Architects Daughter', serif;
 	transition: color .5s ease;
 }
 a:hover {
 	color: white;
+	overflow: hidden;
 }
 footer {
 font-family: 'Architects Daughter', serif;
@@ -52,15 +52,13 @@ nav a {
 padding: .5em;
 margin: 1em;
 font-weight: bold;
-font-family: 'Quicksand', sans-serif;
 text-transform: uppercase;
 font-weight: bold;
 text-decoration: none;
 background-color: #EDDBD9;
 font-family: 'Architects Daughter', serif;
-border-bottom: transparent 0px solid;
-/*transition: color .5s ease;*/
 transition: border .5s ease;
+overflow: hidden;
 }
 nav {
 	background-color: #EDDBD9;
