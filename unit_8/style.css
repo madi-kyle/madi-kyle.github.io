@@ -58,8 +58,7 @@ text-decoration: none;
 background-color: #EDDBD9;
 font-family: 'Architects Daughter', serif;
 transition: border .5s ease;
-border: transparent;
-overflow: hidden;
+border: transparent 0px;
 }
 nav {
 	background-color: #EDDBD9;
