@@ -69,7 +69,7 @@ nav {
 }
 nav a:hover {
 border-bottom: white 3px solid;
-transition: color 0.5s ease;
+transition: color 0.5s ease, border .5s ease;
 }
 .column {
 	width: 20%;
