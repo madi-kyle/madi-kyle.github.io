@@ -4,7 +4,7 @@ body {
 background-color: #EDDBD9;
 font-family: 'Quicksand', sans-serif;
 text-align: center;
-font-size: 16px;
+font-size: 18px;
 }
 h1, h2, h3 {
 font-family: 'Architects Daughter', serif;
@@ -34,11 +34,10 @@ li {
 }
 a {
 	color: black;
+	font-family: 'Architects Daughter', serif;
 	transition: color .5s ease;
-	transition: border .5s ease;
 }
 a:hover {
-	font-family: 'Architects Daughter', serif;
 	color: white;
 }
 footer {
@@ -58,6 +57,10 @@ text-transform: uppercase;
 font-weight: bold;
 text-decoration: none;
 background-color: #EDDBD9;
+font-family: 'Architects Daughter', serif;
+border-bottom: transparent 0px solid;
+transition: color .5s ease;
+transition: border .5s ease;
 }
 nav {
 	background-color: #EDDBD9;
@@ -143,6 +146,9 @@ margin: 5% 0%;
 #event_examples img {
 	width: 22%;
 	margin: 1%;
+}
+#event_examples p {
+	width: 50%;
 }
 #digital img {
 	width: 50%;
