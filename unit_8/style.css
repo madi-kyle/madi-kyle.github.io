@@ -137,23 +137,15 @@ margin: 5% 0%;
 	height: 2em;
 	margin: 3%;
 }
-
-#ad_examples img {
+.portfolio img {
 	width: 22%;
 	margin: 1%;
-}
-#event_examples img {
-	width: 22%;
-	margin: 1%;
-}
-#event_examples p {
-	width: 50%;
 }
 #digital img {
 	width: 50%;
 	margin: 1%;
 }
-#digital p {
+.portfolio p{
 	width: 50%;
 }
 #contact > img {
@@ -257,8 +249,8 @@ nav:hover a {
 h1 {
 	font-size: 1.5em;
 }
-h2, h3, h4 {
-	font-size: 1.5em;
+h2, h3, {
+	font-size: 1.2em;
 }
 h4, h5 {
 font-size: 1em;
@@ -276,39 +268,22 @@ font-size: 1em;
 #qualifications{
 	width: 90%;
 }
-#ad_examples img {
+.portfolio img {
 	width: 40%;
     float: none;
 	margin: 1.5%;
 }
-#event_examples img {
-	width: 40%;
-	float: none;
-	margin: 1.5%;
-}
 #digital img {
-	width: 40%;
+	width: 90%;
 	margin: 1%;
 }
 }
 @media only screen and (max-width: 500px) {
-#event_examples img {
+.portfolio img {
 	width: 90%;
 	float: none;
 	margin: 1.5%;
 }
-#digital img {
+.portfolio p {
 	width: 90%;
-	margin: 1%;
-	}
-#digital p {
-	width: 90%;
-}
-#event_examples p {
-	width: 90%;
-}
-#ad_examples img {
-	width: 90%;
-    float: none;
-	margin: 1.5%;
 }
